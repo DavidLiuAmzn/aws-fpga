@@ -3,6 +3,6 @@
     url = https://github.com/Xilinx/Vitis_Accel_Examples.git
     branch = 2024.1
 [submodule "hdk/common/ip"]
-    path = hdk/common/ip
-    url = https://github.com/aws/aws-fpga-resources.git
+	path = hdk/common/ip
+	url = https://github.com/aws/aws-fpga-resources.git
     ignore = dirty
